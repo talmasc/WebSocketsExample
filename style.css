@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  color: limegreen;
+  font-family: Helvetica, sans-serif;
+  font-size: 24px;
+}
+
+.messages {
+  margin-bottom: 50px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+form {
+  margin-left: 20px;
+}
+
+label {
+  font-size: 24px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+}
+
+input {
+  color: limegreen;
+  background-color: transparent;
+  border: solid 0px;
+  font-size: 24px;
+}
+
+textarea:focus, input:focus {
+  outline: none;
+}
